@@ -1,5 +1,7 @@
 # GitHub Repository for Learning Git by Anna Skoulikari
 
+# ADRIAN WAS HERE!!!!
+
 <img src="learning_git_cover.jpg" width=450>
 
 This GitHub repository is meant to be used as a supplementary resource for Learning Git: A Hands-On and Visual Approach to Understanding the Basics of Git by Anna Skoulikari (published by O'Reilly).
